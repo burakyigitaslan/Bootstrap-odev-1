@@ -1,0 +1,11 @@
+body, .card-bg{
+    background-color: #E9ECEF ;
+}
+
+ul{
+    list-style-position:inside ;
+}
+
+h5.card-title, h1{
+    color: blueviolet;
+}
